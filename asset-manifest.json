@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/JeanD56/static/css/main.073c9b0a.css",
+    "main.js": "/JeanD56/static/js/main.9b49491e.js",
+    "static/js/787.dd4029b4.chunk.js": "/JeanD56/static/js/787.dd4029b4.chunk.js",
+    "static/media/logo.svg": "/JeanD56/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/JeanD56/index.html",
+    "main.073c9b0a.css.map": "/JeanD56/static/css/main.073c9b0a.css.map",
+    "main.9b49491e.js.map": "/JeanD56/static/js/main.9b49491e.js.map",
+    "787.dd4029b4.chunk.js.map": "/JeanD56/static/js/787.dd4029b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9b49491e.js"
+  ]
+}
